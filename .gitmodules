@@ -1,0 +1,3 @@
+[submodule "Movie-DB"]
+	path = Movie-DB
+	url = https://github.com/SubhradeepSS/Movie-DB
